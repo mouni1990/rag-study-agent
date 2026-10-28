@@ -1,0 +1,13 @@
+# Secrets - never commit your API key
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# macOS
+.DS_Store

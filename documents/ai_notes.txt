@@ -1,0 +1,29 @@
+Artificial Intelligence
+
+Artificial intelligence allows computers to perform tasks that normally require human intelligence. Examples include understanding language, recognizing images, making predictions, and solving problems.
+
+Machine Learning
+
+Machine learning is a branch of artificial intelligence where computers learn patterns from data instead of being explicitly programmed for every situation.
+
+Large Language Models
+
+Large language models are AI models trained on large amounts of text. They can understand and generate natural language. Examples of tasks include answering questions, summarizing documents, generating text, and assisting with programming.
+
+AI Agents
+
+An AI agent is a software system that uses an AI model to reason about a task and decide what actions to take. Agents can use tools such as calculators, APIs, databases, search systems, and other software.
+
+A typical AI agent works in a loop. The agent receives a goal, reasons about what should happen next, chooses an action or tool, observes the result, and continues until the task is complete.
+
+Retrieval-Augmented Generation
+
+RAG stands for Retrieval-Augmented Generation. RAG allows an AI application to retrieve relevant information from external documents and provide that information to a language model before generating an answer.
+
+A typical RAG system loads documents, splits them into smaller chunks, converts the chunks into embeddings, stores or searches those embeddings, retrieves chunks relevant to the user's question, and sends those chunks to the language model as context.
+
+Embeddings
+
+An embedding is a numerical representation of meaning. Text with similar meaning tends to have embeddings that are mathematically closer together.
+
+Embeddings make semantic search possible. For example, a question about "automobiles" may retrieve a document discussing "cars" even when the exact word automobile does not appear in the document.
